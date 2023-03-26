@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natãn</h1>
 <h3 align="center">Full-Stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning: **Java | SpringBoot**
+- 🌱 I’m currently learning: **Typescript | Angular**
 
 - 📫 How to reach me: **natanschneider@protonmail.com**
 
