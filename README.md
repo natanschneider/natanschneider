@@ -20,4 +20,3 @@
 [![wakatime](https://wakatime.com/badge/user/ffc95f9e-93fb-46be-8b54-58c74b03de02.svg)](https://wakatime.com/@ffc95f9e-93fb-46be-8b54-58c74b03de02)
 
 ![Alt text](https://wakatime.com/share/@natanschneider/8502a9f6-d253-4a1c-b200-e8fc8664323e.svg)
-<img src="https://wakatime.com/share/@natanschneider/8502a9f6-d253-4a1c-b200-e8fc8664323e.svg">
