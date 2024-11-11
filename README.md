@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natanschneider&show_icons=true&theme=dracula&locale=en" alt="natanschneider" /></p>
 
 [![wakatime](https://wakatime.com/badge/user/ffc95f9e-93fb-46be-8b54-58c74b03de02.svg)](https://wakatime.com/@ffc95f9e-93fb-46be-8b54-58c74b03de02)
+
+<figure><embed src="https://wakatime.com/share/@natanschneider/3966e98e-5605-4e79-afc5-86f81f229f14.svg"></embed></figure>
