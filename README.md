@@ -53,5 +53,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/ffc95f9e-93fb-46be-8b54-58c74b03de02.svg)](https://wakatime.com/@ffc95f9e-93fb-46be-8b54-58c74b03de02)
 
-.. image:: https://wakatime.com/share/@natanschneider/e4f45124-f820-4e13-bbef-6ae65579e1f2.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@natanschneider/e4f45124-f820-4e13-bbef-6ae65579e1f2.png" /></a>
