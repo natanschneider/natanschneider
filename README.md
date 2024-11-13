@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [folio](https://github.com/natanschneider/folio)
 - 🌱 I’m currently learning **Oracle SQL | PostgreSQL | Next.js | Typescript**
-- 💬 Ask me about **SQL | PHP | Javascript**
+- 💬 Ask me about **SQL | Linux | PHP | Javascript**
 - 📫 How to reach me **natanschneider@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
