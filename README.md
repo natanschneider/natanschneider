@@ -51,10 +51,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanschneider&show_icons=true&theme=dracula&locale=en&layout=compact" alt="natanschneider" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natanschneider&show_icons=true&theme=dracula&locale=en" alt="natanschneider" /></p>
-
 [![wakatime](https://wakatime.com/badge/user/ffc95f9e-93fb-46be-8b54-58c74b03de02.svg)](https://wakatime.com/@ffc95f9e-93fb-46be-8b54-58c74b03de02)
 
 ![Alt text](https://wakatime.com/share/@natanschneider/8502a9f6-d253-4a1c-b200-e8fc8664323e.svg)
