@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natãn</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Docos](https://github.com/natanschneider/Docos)
+- 🔭 I’m currently working on [Toskos](https://github.com/natanschneider/toskos)
 - 🌱 I’m currently learning **Oracle SQL | PostgreSQL | Laravel | Typescript**
 - 💬 Ask me about **SQL | Linux | PHP | Javascript**
 - 📫 How to reach me **natanschneider@protonmail.com**
